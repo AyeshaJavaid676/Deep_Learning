@@ -2,7 +2,7 @@
 
 ## Project Description
 
-You built a deep learning model to classify obesity levels using demographic and lifestyle data. The project uses a fully connected neural network trained on tabular data and achieves high classification accuracy across multiple obesity categories.
+Built a deep learning model to classify obesity levels using demographic and lifestyle data. The project uses a fully connected neural network trained on tabular data and achieves high classification accuracy across multiple obesity categories.
 
 ## Dataset
 
@@ -37,15 +37,24 @@ You performed the following steps.
 
 ## Exploratory Data Analysis
 
-You analyzed patterns and relationships using visualizations.
+Analyzed patterns and relationships using visualizations.
 
-- Distribution of obesity classes  
-- Age variation across obesity levels  
-- Physical activity frequency vs obesity  
-- Vegetable consumption vs obesity  
-- Gender based obesity comparison  
 
-Plots include count plots, box plots, violin plots, swarm plots, and histograms.
+### Obesity Class Distribution
+
+![Class Distribution](EDA4.png)
+ 
+### Age variation across obesity levels  
+![Class Distribution](EDA.png)
+### Physical activity frequency vs obesity 
+![Class Distribution](EDA3.png)
+### Food consumption vs obesity 
+![Class Distribution](EDA2.png)
+![Class Distribution](EDA6.png)
+### Gender based obesity comparison
+![Class Distribution](EDA5.png)
+
+
 
 ## Train Test Split
 
@@ -55,7 +64,7 @@ Plots include count plots, box plots, violin plots, swarm plots, and histograms.
 
 ## Model Architecture
 
-You implemented a neural network with the following structure.
+Implemented a neural network with the following structure.
 
 - Input layer with 31 features  
 - Dense layer with 128 neurons and ReLU activation  
@@ -96,9 +105,6 @@ You implemented a neural network with the following structure.
 
 ## Results Visualizations
 
-### Obesity Class Distribution
-
-![Class Distribution](EDA.png)
 
 ### Confusion Matrix
 

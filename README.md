@@ -98,11 +98,11 @@ You implemented a neural network with the following structure.
 
 ### Obesity Class Distribution
 
-![Class Distribution](images/class_distribution.png)
+![Class Distribution](EDA.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Con_Mat.png)
 ## Ayesha Javaid
 
 
